@@ -1,0 +1,268 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	.boxed-btn,
+	input[type="submit"],
+	button[type="submit"] {
+		font-size: 13px;
+		padding: 13px 12px;
+	}
+	.single-service-box {
+		padding: 15px;
+	}
+	.hero-area h1 {
+		font-size: 40px;
+	}
+	.single-service-box-2 {
+		height: 220px;
+	}
+	.slide-item-wrapper h2 {
+		font-size: 50px;
+		line-height: 60px;
+	}
+	.pd-50 {
+		padding-top: 30px;
+	}
+	.single-case-study {
+		height: 280px;
+	}
+	.blog-thumb-wrapper {
+		height: 200px;
+		margin-bottom: 20px;
+		margin-left: -20px;
+		margin-top: -20px;
+		margin-right: -20px;
+	}
+	.single-blog-box {
+		padding: 20px;
+	}
+	.service-section {
+		padding-top: 30px;
+	}
+	.service-section::before {
+		top: -35px;
+		width: 48%;
+	}
+	.absolute-gallery-img-1 {
+		top: 50px;
+	}
+	.boxed-case-study .single-case-study {
+		height: 200px;
+	}
+	.breadcumb-area h2 {
+		font-size: 28px;
+		margin-bottom: 12px;
+	}
+	.breadcumb-area {
+		font-size: 20px;
+	}
+	.contact-form textarea {
+		height: 120px;
+	}
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {}
+
+
+/* Tablet and Mobile Layout: 768px. */
+
+@media only screen and (max-width: 991px) {
+	.logo {
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.mainmenu {
+		display: none;
+	}
+	.hero-area .text-right {
+		text-align: left
+	}
+	.header-area .text-right,
+	.cta-area,
+	.cta-area .text-right,
+	.footer-area-2,
+	.footer-area-2 .text-right,
+	.copyright-area-2,
+	.copyright-area-2 .text-right {
+		text-align: center;
+	}
+	.hero-area {
+		padding: 50px 0;
+	}
+	.website-checker-form {
+		margin-bottom: 50px;
+	}
+	.mobile-padding-fix {
+		padding-top: 0;
+		padding-bottom: 50px;
+	}
+	.mobile-padding-fix-2 {
+		padding-top: 50px;
+		padding-bottom: 0;
+	}
+	.mobile-text-left {
+		text-align: left;
+	}
+	.section-padding {
+		padding: 75px 0;
+	}
+	.cta-area .boxed-btn {
+		margin-top: 20px;
+	}
+	.mobile-only-margin {
+		height: 50px;
+	}
+	.breadcumb-area {
+		padding: 80px 0;
+		font-size: 18px;
+	}
+	.breadcumb-area h2 {
+		margin-bottom: 10px;
+	}
+	.boxed-case-study .col-sm-6:nth-child(1) .case-study-box-style2,
+	.boxed-case-study .col-sm-6:nth-child(2) .case-study-box-style2,
+	.boxed-case-study .col-sm-6:nth-child(3) .case-study-box-style2,
+	.boxed-case-study .col-sm-6:nth-child(4) .case-study-box-style2 {
+		margin-bottom: 30px;
+	}
+	.boxed-case-study .col-sm-6:nth-child(5) .case-study-box-style2,
+	.boxed-case-study .col-sm-6:nth-child(6) .case-study-box-style2 {
+		margin-bottom: 0;
+	}
+	.padding-top-170 {
+		padding-top: 100px;
+	}
+	.hero-area h1 {
+		font-size: 40px;
+		margin-top: 0;
+		max-width: inherit;
+	}
+	.hero-form {
+		margin-top: 50px;
+	}
+	.single-pricing-box.theme-2,
+	.single-blog-box,
+	.single-pricing-box {
+		margin-bottom: 30px;
+	}
+	.slide-item-wrapper h2 {
+		font-size: 35px;
+		line-height: 40px;
+	}
+	.website-check-form input[type="submit"] {
+		padding: 11px;
+	}
+	.absolute-gallery-img-1 {
+		position: relative;
+		top: auto;
+	}
+	.tile-gallery.text-right {
+		text-align: left;
+	}
+	.service-section::before {
+		display: none;
+	}
+	.service-box-2 {
+		min-height: inherit;
+	}
+	.service-section::after {
+		width: 100%;
+	}
+	.single-team-box {
+		min-height: 310px;
+	}
+	.slicknav_menu {
+		display: block;
+	}
+	.author-box h4 {
+		margin-top: 20px;
+	}
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+	.footer-area ul,
+	.case-study-box-style2,
+	.single-pricing-box .theme-2,
+	.footer-area.theme-2 p,
+	.single-service-box {
+		margin-bottom: 30px;
+	}
+	.footer-area {
+		padding: 20px 0;
+	}
+	.website-checker-form input[type="url"] {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.footer-area.theme-2 p {
+		text-align: center;
+		padding: 0 15px;
+	}
+	.copyright-area {
+		padding: 15px 10px;
+	}
+	.website-check-form input {
+		margin-right: 0;
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	.website-check-form input[type="submit"] {
+		width: auto;
+	}
+	.footer-area-2 li a {
+		margin-top: 20px;
+		padding: 7px;
+	}
+	.slide-item-wrapper h2 {
+		font-size: 22px;
+		line-height: 25px;
+	}
+	.service-section {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+	.off-canvas-menu ul {
+		margin: 35px 0;
+		line-height: 35px;
+	}
+	.off-canvas-menu h4 {
+		margin-bottom: 15px;
+	}
+	.off-canvas-menu {
+		padding: 25px 40px;
+	}
+	.boxed-case-study .single-case-study,
+	.case-study-box-preview {
+		height: 250px;
+	}
+	.blog-thumb-wrapper {
+		height: 200px;
+		margin-bottom: 20px;
+		margin-left: -20px;
+		margin-top: -20px;
+		margin-right: -20px;
+	}
+	.single-blog-box {
+		padding: 20px;
+	}
+	.theme-2 .single-blog-box {
+		min-height: 0;
+	}
+	.quote-form {
+		width: 98%;
+		padding: 20px;
+		margin-top: 40px;
+		margin-left: 0;
+	}
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {}

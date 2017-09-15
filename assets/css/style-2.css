@@ -1,0 +1,50 @@
+.hero-area {
+    background-image: url(../img/hero-bg-2.png);
+    background-color: #2b9bf7;
+}
+
+.boxed-btn,
+input[type="submit"],
+button[type="submit"],
+.slicknav_btn,
+.slicknav_nav .slicknav_row:hover,
+.slicknav_nav a:hover {
+    background-color: #06d6a0;
+}
+
+.mainmenu li a:hover,
+.footer-area a:hover,
+.footer-area ul.social-links li:hover i.zmdi {
+    color: #06d6a0;
+}
+
+.mainmenu li:hover>a {
+    color: #06d6a0;
+}
+
+.mainmenu li:hover li:hover>a {
+    background-color: #06d6a0;
+}
+
+.menu-cta h4 span {
+    color: #06d6a0;
+}
+
+.hero-area {
+    background-position: center center;
+    background-size: cover;
+    color: #fff;
+    line-height: 1.8;
+    padding: 80px 0;
+}
+
+.hero-area h1 {
+    color: #fff;
+    font-size: 45px;
+    margin-top: 90px;
+}
+
+.service-icon {
+    color: #289ef8;
+    margin-bottom: 15px;
+}

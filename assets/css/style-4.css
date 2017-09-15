@@ -1,0 +1,150 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.section-title2 h2 {
+    font-weight: 700;
+}
+
+body {
+    font-weight: 300;
+    line-height: 1.6;
+}
+
+html,
+body,
+.homepage-hero-area-4,
+.single-slide-item {
+    height: 100%;
+}
+body.boxed-layout {
+    height: auto;
+}
+.site {
+  height: 100%;
+  width: 100%;
+}
+.site.active {
+  height: auto;
+  width: 100%;
+}
+.site.active .homepage-hero-area-4 {
+	height: 600px;
+} 
+.site.active .single-slide-item {
+	height: 600px;
+}
+.boxed-btn,
+input[type="submit"],
+button[type="submit"],
+.website-check-form input[type="submit"],
+button[type="submit"],
+.slicknav_btn,
+.slicknav_nav .slicknav_row:hover,
+.slicknav_nav a:hover {
+    background-color: #06d6a0;
+}
+
+.boxed-btn:hover,
+.video-play-btn:hover,
+.website-check-form input[type="submit"]:hover,
+.website-check-form button[type="submit"]:hover {
+    color: #073b4c;
+    background-color: #fff;
+}
+
+.mainmenu li a {
+    font-weight: 400;
+}
+
+.mainmenu li a:hover,
+.footer-area a:hover,
+.footer-area ul.social-links li:hover i.zmdi {
+    color: #06d6a0;
+}
+
+.mainmenu li:hover>a {
+    color: #06d6a0;
+}
+
+.mainmenu li:hover li:hover>a {
+    background-color: #06d6a0;
+}
+
+.menu-cta h4 span {
+    color: #06d6a0;
+}
+
+.header-area .boxed-btn:hover,
+.pricing-content .boxed-btn:hover,
+.pdt-50 .boxed-btn:hover {
+    color: #fff;
+    background-color: #373737;
+}
+
+.slide-item-wrapper h2 {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 55px;
+}
+
+.website-check-form {
+    margin-top: 30px;
+}
+
+.website-check-form input {
+    background-color: #073b4c;
+    border-color: #073b4c;
+}
+
+.single-service-box:hover {
+    border-color: #06d6a0;
+}
+
+.single-service-box:hover a.service-readmore-btn,
+.single-service-box:hover h3,
+.single-service-box:hover .service-icon {
+    color: #06d6a0;
+}
+
+.single-service-box h3,
+.pricing-heading h4,
+.section-title h2,
+.footer-area h4,
+.case-study-wrapper h4,
+.header-area .boxed-btn,
+.single-blog-box h3 {
+    font-weight: 400;
+}
+
+.single-pricing-box {
+    margin-bottom: 0;
+}
+
+.pricing-count {
+    color: #06d6a0;
+}
+
+.single-pricing-box:hover {
+    border-color: #06d6a0;
+}
+
+.single-pricing-box:hover .pricing-heading {
+    border-color: #06d6a0;
+}
+
+.single-blog-box {
+    display: block;
+    color: #999999;
+}
+
+.single-blog-box:hover {
+    color: #999999;
+    opacity: .8;
+}
+
+.social-links a {
+    color: #373737;
+}

@@ -1,0 +1,49 @@
+.boxed-btn,
+input[type="submit"],
+button[type="submit"],
+.mainmenu li:hover li:hover>a,
+.slicknav_btn,
+.slicknav_nav .slicknav_row:hover,
+.slicknav_nav a:hover,
+.case-study-wrapper,
+.owl-dots div.active,
+.layout-changer span.active,
+body.boxed-layout::before,
+.video-play-btn,
+.theme-2 .case-study-wrapper::after,
+.testimonial-carousel.theme-2 .owl-dots div.active,
+.single-testimonial-box.active .testimonial-text {
+    background-color: #06d6a0;
+}
+
+.mainmenu li a:hover,
+.mainmenu li:hover>a,
+.menu-cta h4 span,
+.single-service-box:hover a.service-readmore-btn,
+.single-service-box:hover h3,
+.single-service-box:hover .service-icon,
+.pricing-count,
+.footer-area a:hover,
+.footer-area ul.social-links li:hover i.zmdi,
+.blog-readmore-btn,
+.contact-info i.zmdi,
+.footer-area.theme-4 a:hover,
+.copyright-area-2 a:hover,
+.footer-area-2 a:hover,
+.inline-btn,
+.off-canvas-menu li a:hover,
+.service-box-2 .service-icon,
+.feature-icon {
+    color: #06d6a0;
+}
+
+.single-service-box:hover,
+.single-pricing-box:hover,
+.single-pricing-box:hover .pricing-heading,
+.layout-changer span {
+    border-color: #06d6a0;
+}
+
+.testimonial-text::after {
+    border-top: 30px solid #06d6a0;
+}
