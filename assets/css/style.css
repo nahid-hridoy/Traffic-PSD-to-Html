@@ -2203,6 +2203,15 @@ FOOTER CSS
 COPYRIGHT CSS
 ****************************/
 
+.copyright-area a {
+    color: #ef476f;
+    transition: .4s;
+}
+
+.copyright-area a:hover {
+    color: #333;
+}
+
 .copyright-area {
     background: #f7f7f7 none repeat scroll 0 0;
     padding: 15px 0;
